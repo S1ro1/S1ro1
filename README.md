@@ -17,7 +17,7 @@
 
 ### 👨‍💻: About Me :
 
-I'm a computer science student currently in 3rd year of Bachelor's degree at Brno University of Technology.
+I'm a computer science student currently in the 1st year year of Master's degree at Brno University of Technology, studying Machine Learning and Artificial Intelligence.
 
 - :telescope: I'm working as a freelance Data Scientist
 
@@ -33,7 +33,7 @@ I'm a computer science student currently in 3rd year of Bachelor's degree at Brn
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
