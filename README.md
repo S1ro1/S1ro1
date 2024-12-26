@@ -23,9 +23,9 @@ I'm a computer science student currently in the 1st year year of Master's degree
 
 - :brain: I'm mostly interested in Deep and Machine learning.
 
-- :seedling: Learning other stuff as Web dev etc.
+- :seedling: My current obsession is MLSys and High Performance Computing
 
-- :books: In my free time I usually read books and learn new technologies
+- :books: I spend most of my free time learning new stuff that I'm currently interested in
 
 ---
 
