@@ -2,6 +2,9 @@
   <img src='https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif' width='100'>
 
   <div id="badges">
+    <a href='https://x.com/m_sirovatka'>
+      <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/>
+    </a>
     <a href='https://www.linkedin.com/in/matej-sirovatka-45959b256/'>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
@@ -12,48 +15,25 @@
   </h1>
 </div>
 
+---
+
+### 👨‍💻 About Me 
+
+Computer science student with passion for ML Systems and AI. Currently in my 1st year of Master's degree. I work as as a machine learning engineer @ 🤗 Huggingface, where I help to maintain and contribute to [Accelerate](https://github.com/huggingface/accelerate). When I'm not working I'm one of the main contributors to [KernelBot](https://github.com/gpu-mode/discord-cluster-manager).
+
+- :telescope: I'm interested in all things related to AI and ML
+
+- :brain: I love to understand things in depth and learn about how the underlying HW works
+
+- :seedling: My current focus in on understanding the internals of GPUs and distributed communication
+
+- :books: I spend most of my free time learning new stuff which I currently obsess over
 
 ---
 
-### 👨‍💻: About Me :
+### 💻 My Skills
 
-I'm a computer science student currently in the 1st year year of Master's degree at Brno University of Technology, studying Machine Learning and Artificial Intelligence.
-
-- :telescope: I'm working as a freelance Data Scientist
-
-- :brain: I'm mostly interested in Deep and Machine learning.
-
-- :seedling: My current obsession is MLSys and High Performance Computing
-
-- :books: I spend most of my free time learning new stuff that I'm currently interested in
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original-wordmark.svg" title="Svelte" alt="Svelte" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cplusplus" alt="Cplusplus" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="Opencv" alt="Opencv" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :computer: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=S1ro1&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S1ro1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+- 🐍 Been working with Python for more than 10 years and I consider myself very confident in this language
+- 🧠 Familiar with different architectures of neural networks, mainly focusing on causal language modeling
+- ⚙️ I have experience with distributed systems and parallel computing, especially in the context of ML/AI, where I have worked with and in-depth understood different distributed training strategies 
+- ⚡️ I love optimizing code and making it run fast, with experience in languages such as C++, Cuda and Triton
