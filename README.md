@@ -23,7 +23,7 @@ Computer science student with passion for ML Systems and AI. Currently in my 1st
 
 - :telescope: I'm interested in all things related to AI and ML
 
-- :brain: I love to understand things in depth and learn about how the underlying HW works
+- :brain: I love to understand things in depth and learn about how the underlying hardware works
 
 - :seedling: My current focus in on understanding the internals of GPUs and distributed communication
 
@@ -34,6 +34,9 @@ Computer science student with passion for ML Systems and AI. Currently in my 1st
 ### 💻 My Skills
 
 - 🐍 Been working with Python for more than 10 years and I consider myself very confident in this language
+
 - 🧠 Familiar with different architectures of neural networks, mainly focusing on causal language modeling
+
 - ⚙️ I have experience with distributed systems and parallel computing, especially in the context of ML/AI, where I have worked with and in-depth understood different distributed training strategies 
+
 - ⚡️ I love optimizing code and making it run fast, with experience in languages such as C++, Cuda and Triton
