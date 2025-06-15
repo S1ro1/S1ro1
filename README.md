@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me 
 
-Computer science student with passion for ML Systems and AI. Currently in my 1st year of Master's degree. I work as as a machine learning engineer @ 🤗 Huggingface, where I help to maintain and contribute to [Accelerate](https://github.com/huggingface/accelerate). When I'm not working I'm one of the main contributors to [KernelBot](https://github.com/gpu-mode/discord-cluster-manager).
+Computer science student with passion for ML Systems and AI. Currently in my 2nd year of Master's degree. I work as as a machine learning engineer @ 🤗 Huggingface, where I help to maintain and contribute to [Accelerate](https://github.com/huggingface/accelerate). When I'm not working, I'm one of the main contributors to [KernelBot](https://github.com/gpu-mode/discord-cluster-manager).
 
 - :telescope: I'm interested in all things related to AI and ML
 
@@ -27,7 +27,7 @@ Computer science student with passion for ML Systems and AI. Currently in my 1st
 
 - :seedling: My current focus in on understanding the internals of GPUs and distributed communication
 
-- :books: I spend most of my free time learning new stuff which I currently obsess over
+- :books: I like to read papers and blogs related to reinforcement learning of LLMs
 
 ---
 
